@@ -2,18 +2,18 @@
 # yarn lockfile v1
 
 
-"@astrajs/collections@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@astrajs/collections/-/collections-0.2.1.tgz#db2efffbf099d721dee3c4513a6fe20ac235c907"
-  integrity sha512-8WEKx2XZq/7aldy3pMkkn1vcNxvvGNzcpBQ3WfOzdyjci3VAfSVYIL/oztOwUGY9WKclLjgZ9pf1b1QiIjtZbQ==
+"@astrajs/collections@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@astrajs/collections/-/collections-0.3.0.tgz#e873ac09ba89986ff02d14cacb67949f2ba324f3"
+  integrity sha512-YRpFrydRVsVm3D5evMfGiEpcBC1z9qrgz/vF3JKYmynFTEJaTS5wEC4rIm7g6pfSrSjzEHFdlit0H1TVYRBBew==
   dependencies:
-    "@astrajs/rest" "^0.2.1"
+    "@astrajs/rest" "^0.3.0"
     lodash "^4.17.20"
 
-"@astrajs/rest@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@astrajs/rest/-/rest-0.2.1.tgz#31b4c7db2d33903001e31d3bbf5d67d00131d8ad"
-  integrity sha512-5cF6eRrcXMOaxTGjLSRvz+7zN19BLTzOqjF/5WdM3IUNl6Kt2UUe/XopvazpmR//ojen6kPFdEkXXmf2+Pb3Qg==
+"@astrajs/rest@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@astrajs/rest/-/rest-0.3.0.tgz#0dc88c82488db59b4d70545ef3a02782f393fe40"
+  integrity sha512-+rgSwB0dIkblSdAmBVvOUgg1v93DpflICWbbkPSWnYHAR1Fhq7naahka3NepaZX9DBw0II/zv4uhhnGMJMjISg==
   dependencies:
     assert "^2.0.0"
     axios "^0.21.1"
